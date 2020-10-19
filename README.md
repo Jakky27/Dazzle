@@ -12,7 +12,10 @@ Terrell Strong Anthony,
 Owen Wang,
 Charles Yao
 
-TAs:
+Lecturers:
 Sophia Baker,
+Natalie Burke
+
+Lecturers/TAs:
 Marielle Derocher,
 Andrew Rudasics
