@@ -1,5 +1,7 @@
 # Dazzle
-A VR game project developed by the students of CSE 490J: Virtual Reality Production for Storytelling
+A VR game project developed by the students of CSE 490J: Virtual Reality Production for Storytelling.
+
+The project was last tested on Unity 2019.2 with LWRP 6.9.1 and Oculus Desktop 1.38.4. We developed on Oculus Rift devices.
 
 Members: 
 Chanhee Choi,
