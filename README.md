@@ -19,3 +19,5 @@ Natalie Burke
 Lecturers/TAs:
 Marielle Derocher,
 Andrew Rudasics
+
+[![AR/VR Capstone Demo Day 2020](https://yt-embed.herokuapp.com/embed?v=RF-IKro6cSs)](https://www.youtube.com/watch?v=RF-IKro6cSs&t=2145s "AR/VR Capstone Demo Day 2020 (UW CSE, The UW Reality Lab, and The UW Reality Studio)")
