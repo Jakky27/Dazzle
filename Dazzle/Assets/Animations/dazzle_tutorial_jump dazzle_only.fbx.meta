@@ -1,0 +1,181 @@
+fileFormatVersion: 2
+guid: 68cbe5a9be3bd3b418f03e0e636da9d5
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable:
+  - first:
+      74: 1827226128182048838
+    second: Take 001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dazzle_balancing1_black_rubber_mat
+    second: {fileID: 1397567297713467978, guid: 268831b97918e1446806e2017c4b483d,
+      type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dazzle_balancing1_eyebrow_mat
+    second: {fileID: 2100000, guid: d06a159d9f77c7849adce0b8f2df474e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dazzle_balancing1_face_mat
+    second: {fileID: 2100000, guid: 524f93344cb33b744a1b23f0b88b8fda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dazzle_balancing1_grey_plastic_mat
+    second: {fileID: 2100000, guid: edded40b50432704a8e41b5873a3981a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dazzle_balancing1_hair_mat
+    second: {fileID: 7747370268651668696, guid: c507071d13ce2ac47b11118abe467e3a,
+      type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dazzle_balancing1_hat_mat
+    second: {fileID: 2100000, guid: bbbb32c8c9ebe5643bf4d667ef32614d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dazzle_balancing1_mouth_mat
+    second: {fileID: 2100000, guid: ac433c1fb6f35c34691648683a3f2aa3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dazzle_balancing1_mouth_plane_mat
+    second: {fileID: 2100000, guid: 75081bf82c729104ba9b413bb49aa30e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dazzle_balancing1_nose_mat
+    second: {fileID: 2100000, guid: 48238d02834cf4e40828ed015e48c751, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dazzle_balancing1_pants_shoes_mat
+    second: {fileID: 2100000, guid: 43798ed0548b71c4a9162fa3b7b978ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dazzle_balancing1_pupil_mat
+    second: {fileID: 2100000, guid: 83ffe2c6d3698d14f9b5bbe4c1ef578f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dazzle_balancing1_red_mat
+    second: {fileID: 2100000, guid: 2081b5ce1969fcf4a958ba2831c5f212, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dazzle_balancing1_sclera_mat
+    second: {fileID: 2100000, guid: 2081b5ce1969fcf4a958ba2831c5f212, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dazzle_balancing1_teeth_mat
+    second: {fileID: 2100000, guid: f0fbc4591fc982f4cb7f9668bf9c787d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dazzle_balancing1_torso_mat
+    second: {fileID: 2100000, guid: d87003ea1ddccc1479a0847ea6e8c781, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dazzle_balancing1_white_plastic_mat
+    second: {fileID: 8022437400881256698, guid: 5c0f628e337569d43899bf9d84eed736,
+      type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

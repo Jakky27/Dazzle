@@ -1,0 +1,272 @@
+fileFormatVersion: 2
+guid: 427fe53eb91f6404284719454e111d35
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable:
+  - first:
+      74: 1827226128182048838
+    second: Take 001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dazzle_cannon_cannon_cannon_body_mat
+    second: {fileID: 2100000, guid: 6cafdb1b0d17d4a2188fe640feb48b76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dazzle_cannon_cannon_canon_base_mat
+    second: {fileID: 2100000, guid: 375580c1ba2d346499ae854b0701af9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dazzle_cannon_cannon_fuse_mat
+    second: {fileID: 2100000, guid: 54f8ff4b35dc342b1baaf38a9c771c51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dazzle_cannon_cannon_wheel_mat
+    second: {fileID: 2100000, guid: a853ed3549e2c41d085f13bcbf6a6094, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dazzle_cannon_dazzle_eyebrow_mat
+    second: {fileID: 2100000, guid: 10e552fb064d141d58cc82653277ad88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dazzle_cannon_dazzle_face_mat
+    second: {fileID: 2100000, guid: 1747f8388aac7436fa5009bf5c3d5d34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dazzle_cannon_dazzle_hair_mat
+    second: {fileID: 2100000, guid: fbe8287ab66ea4c02a45c164a3928f21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dazzle_cannon_dazzle_hat_mat
+    second: {fileID: 2100000, guid: d280bcea4e2894be28cb099130070201, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dazzle_cannon_dazzle_mouth_mat
+    second: {fileID: 2100000, guid: b033880afafd94f4b8c48da7ac1ce571, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dazzle_cannon_dazzle_mouth_plane_mat
+    second: {fileID: 2100000, guid: 6d99803f5d6294d18b99cd94f59a348c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dazzle_cannon_dazzle_nose_mat
+    second: {fileID: 2100000, guid: d3286f24f06d24c0599b20e1f67c81e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dazzle_cannon_dazzle_pants_shoe_mat
+    second: {fileID: 2100000, guid: 61c2d4bfdebc94d63bc57bf986a58b5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dazzle_cannon_dazzle_pupil_mat
+    second: {fileID: 2100000, guid: 30d789b4561da4de8a95c07eadc82623, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dazzle_cannon_dazzle_teeth_mat
+    second: {fileID: 2100000, guid: 6b1bc282e5f63494da7d9ab41c2a33e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dazzle_cannon_dazzle_temp_aqua_mat
+    second: {fileID: 2100000, guid: 62070147800004cdf961b8c323232e6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dazzle_cannon_dazzle_temp_brightorange_mat
+    second: {fileID: 2100000, guid: 88e2c0ebd6dbb40c5ac709e9ffef9476, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dazzle_cannon_dazzle_temp_darkorange_mat
+    second: {fileID: 2100000, guid: ed7b53b7b02c0450791450dc43874a59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dazzle_cannon_dazzle_temp_eye_mat
+    second: {fileID: 2100000, guid: a418de4f22982425292458a44ab1c1be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dazzle_cannon_dazzle_temp_face_mat
+    second: {fileID: 2100000, guid: 6820ba580008f4858af789f0eff12409, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dazzle_cannon_dazzle_temp_glove_mat
+    second: {fileID: 2100000, guid: 8a83db5c3aba94abb89c445e2085a4ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dazzle_cannon_dazzle_temp_orange_mat
+    second: {fileID: 2100000, guid: c8bc06623d39f475d8806b9462e91509, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dazzle_cannon_dazzle_temp_pupil_mat
+    second: {fileID: 2100000, guid: 250a79155a02a4c7cb8a874ea4ac51f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dazzle_cannon_dazzle_temp_purple_mat
+    second: {fileID: 2100000, guid: a482778268fc74c3186900166fadff5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dazzle_cannon_dazzle_temp_shoe_mat
+    second: {fileID: 2100000, guid: ff100a596320a45be8621e1f5b0926a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dazzle_cannon_dazzle_temp_skin_mat
+    second: {fileID: 2100000, guid: fade7750913b549b199bd5aba05ac0c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dazzle_cannon_dazzle_temp_stem_mat
+    second: {fileID: 2100000, guid: 2be959c19f50443bfb7322f87d51075b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dazzle_cannon_dazzle_temp_yellow_mat
+    second: {fileID: 2100000, guid: cecac57fb80214b1f813294b956cb910, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dazzle_cannon_dazzle_torso_mat
+    second: {fileID: 2100000, guid: 1b1c7ba2b30654c91a45ee191d10abc8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 96e8a33548d1e40ccadec80c941e3b2f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

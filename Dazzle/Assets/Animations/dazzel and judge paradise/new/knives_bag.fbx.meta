@@ -1,0 +1,250 @@
+fileFormatVersion: 2
+guid: e2af9bba35e5b491589a38eef050cfc9
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: circus_tent_exterior_audition_poster_mat
+    second: {fileID: 2100000, guid: 15b95e66373f44188a2d32e494c93355, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: circus_tent_exterior_auditions_poster_audition_poster_mat
+    second: {fileID: 2100000, guid: 0f2f24085665d426686ae33ffef29f73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: circus_tent_exterior_clowns_poster_mat
+    second: {fileID: 2100000, guid: 759dd68f69b4e498fa757b72c6f0daa5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: circus_tent_exterior_dazzle_poster_mat
+    second: {fileID: 2100000, guid: 1a1938657013d4bf8b7cf7d8ad4804b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: circus_tent_exterior_ext_ground
+    second: {fileID: 2100000, guid: d0f6eaf186e234dc18cac04c74d440c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: circus_tent_exterior_mat_banner_audtion
+    second: {fileID: 2100000, guid: c99d0f2a2a2c542619801d0539aad3f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: circus_tent_exterior_mat_ext_tent_rim
+    second: {fileID: 2100000, guid: fa04edcd9ef79457a89b87d185328089, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: circus_tent_exterior_mat_lightBulb
+    second: {fileID: 2100000, guid: 1c2d94bf281b74af3bebed52d51ca00e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: circus_tent_exterior_ring_mat
+    second: {fileID: 2100000, guid: aa8f4be5907c040a29529a2c2e5c16ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: circus_tent_exterior_ropeposter_mat
+    second: {fileID: 2100000, guid: 6a06e845383ed47a8b50a67e1597966f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: circus_tent_exterior_signage_poster
+    second: {fileID: 2100000, guid: 4542c63a1884a4e8ebe22c5ef16bd35c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: circus_tent_exterior_tent_blue
+    second: {fileID: 2100000, guid: 9f61ca36377b240ca86d7f3118096602, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: circus_tent_exterior_tent_dirt
+    second: {fileID: 2100000, guid: f7b180f014ed442e5857fd49dd77bdbf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: circus_tent_exterior_tent_metal
+    second: {fileID: 2100000, guid: 62e852b5c7cfe4d33a973190aa3ec1cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: circus_tent_exterior_tent_red
+    second: {fileID: 2100000, guid: 0524334bc104e49afb322921058eb081, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: circus_tent_exterior_tent_rope
+    second: {fileID: 2100000, guid: 9f0c401c877344486b5afa34bae74e2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: circus_tent_exterior_tent_skirt
+    second: {fileID: 2100000, guid: 98ec81cdd073b430d9124311927f232f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: circus_tent_exterior_tent_white
+    second: {fileID: 2100000, guid: 0ffe54d71bd8447959e604f53ecb6eee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: circus_tent_exterior_tent_wood
+    second: {fileID: 2100000, guid: c441cbf0a11c64a17afc6ce0ba96e3a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: circus_tent_exterior_tent_yellow
+    second: {fileID: 2100000, guid: 2dd5ae30dff4b4e16813cefa3a8da41e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hand_bag1_bag_mat
+    second: {fileID: 2100000, guid: dd7fe93d2024d4bf69617403d5f36011, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hand_bag1_clasp_temp_shader
+    second: {fileID: 2100000, guid: 766d2cd6681ad45b68e18b3ed5a1978a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hand_bag_bag_mat
+    second: {fileID: 2100000, guid: 4c1c8a17a8ec74ee19b638a28f2ab76f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hand_bag_clasp_temp_shader
+    second: {fileID: 2100000, guid: e99e44c6dd7994258bf49d98478c4e9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: knife1_knife_mat
+    second: {fileID: 2100000, guid: fddc3f785560f44b78a49fbe471c8fd4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: knife2_knife_mat
+    second: {fileID: 2100000, guid: 3d8d5890145f142fab866f688f49602f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: knife3_knife_mat
+    second: {fileID: 2100000, guid: 969a0c4d4c53a4d7cab07cdb3233b540, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: knife_knife_mat
+    second: {fileID: 2100000, guid: 8e0ba76f797294e8d90abc73f9b584de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pin1_pin_mat
+    second: {fileID: 2100000, guid: bdcea45a462fd4f2599f1d4de3bd78f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pin2_pin_mat
+    second: {fileID: 2100000, guid: be8cff59dd68047bfb4ac1c290c88b43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pin_pin_mat
+    second: {fileID: 2100000, guid: 87aba52ee793c4b15ac413d4024fd77e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
